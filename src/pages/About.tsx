@@ -17,7 +17,7 @@ const About: React.FC = () => {
         },
         {
           username: "Meepo",
-          avatar: "https://cdn.discordapp.com/avatars/1116236451244421182/a_dfdc8097dc86df4575558e8dc6ece2b6.gif?size=4096",
+          avatar: "https://ik.imagekit.io/lhtvft4ai/meepooo.png?updatedAt=1751305418412",
           role: "Co-Owner & Community Leader",
           description: "Membantu mengelola dan mengembangkan komunitas",
         }
@@ -39,6 +39,12 @@ const About: React.FC = () => {
           avatar: "https://i.pinimg.com/736x/c9/7d/42/c97d42039abeff996d311fea0e1f5d51.jpg",
           role: "Owner Server & Google Analytics",
           description: "Pemimpin komunitas yang membangun visi Kaze Serenity",
+        },
+        {
+          username: "Haruka_Senhiora",
+          avatar: "https://ik.imagekit.io/lhtvft4ai/leon_senter.gif?updatedAt=1751304790424",
+          role: "Junior Web Developer",
+          description: "Melakukan maintenance Website Kaze Serenity",
         }
       ]
     },
@@ -54,7 +60,7 @@ const About: React.FC = () => {
           description: "Aktif dalam moderasi dan event",
         },{
           username: "Haruka",
-          avatar: "https://i.pinimg.com/736x/bd/3d/ff/bd3dff9fa6b6e3059e77c26e93654c4b.jpg",
+          avatar: "https://ik.imagekit.io/xaa3pofzg/leon_senter.gif?updatedAt=1750787323762",
           role: "Moderator",
           description: "Aktif dalam moderasi dan event",
         },

@@ -17,7 +17,7 @@ const Join: React.FC = () => {
     {
       icon: <Users className="h-8 w-8" />,
       title: 'Komunitas Aktif',
-      description: 'Bergabung dengan 5000+ member aktif dari seluruh dunia',
+      description: 'Bergabung dengan 1000+ member aktif dari seluruh dunia',
       gradient: 'from-blue-500 to-cyan-500'
     },
     {

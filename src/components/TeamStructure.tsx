@@ -174,7 +174,7 @@ const TeamStructure: React.FC = () => {
         },
         {
           username: "ky",
-          avatar: "https://ik.imagekit.io/1yqrowr2y/3aa2ee91c3387847de8306f3965ba817.png?updatedAt=1750202274862",
+          avatar: "https://ik.imagekit.io/xaa3pofzg/ki.png?updatedAt=1750789205242",
           bio: "Top 2 Voice",
           additionalRole: "Active Member"
         },

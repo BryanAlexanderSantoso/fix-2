@@ -38,7 +38,7 @@ const CTA: React.FC = () => {
               </div>
               <div className="text-left">
                 <h3 className="text-white font-semibold">Kaze Serenity</h3>
-                <p className="text-gray-400 text-sm">1,500+ online • 5,000+ members</p>
+                <p className="text-gray-400 text-sm">500+ online • 1,000+ members</p>
               </div>
             </div>
             <div className="p-6 text-left">

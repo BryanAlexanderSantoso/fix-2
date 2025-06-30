@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom';
 
 const Home: React.FC = () => {
   const stats = [
-    { icon: <Users className="h-6 w-6" />, value: '5,000+', label: 'Members' },
-    { icon: <MessageSquare className="h-6 w-6" />, value: '1,500+', label: 'Online' },
+    { icon: <Users className="h-6 w-6" />, value: '1,000+', label: 'Members' },
+    { icon: <MessageSquare className="h-6 w-6" />, value: '500+', label: 'Online' },
     { icon: <Trophy className="h-6 w-6" />, value: '50+', label: 'Events' },
     { icon: <Sparkles className="h-6 w-6" />, value: '24/7', label: 'Active' },
   ];

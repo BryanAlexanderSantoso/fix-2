@@ -10,23 +10,23 @@ const Leaderboard: React.FC = () => {
       rank: 1,
       username: "yooooeeeeee",
       avatar: "https://ik.imagekit.io/1yqrowr2y/d63fc8a540bb0bf2dc4c32f722dccf6f.png?updatedAt=1750202278242",
-      totalHours: 194.48,
+      totalHours: 157.60,
       totalDays: 28,
       badge: "Voice Champion"
     },
     {
       rank: 2,
-      username: "ky",
-      avatar: "https://ik.imagekit.io/1yqrowr2y/3aa2ee91c3387847de8306f3965ba817.png?updatedAt=1750202274862",
-      totalHours: 139.75,
+      username: "zipdy",
+      avatar: "https://ik.imagekit.io/lhtvft4ai/zipdy.png?updatedAt=1751303793194",
+      totalHours: 128.42,
       totalDays: 25,
       badge: "Voice Master"
     },
     {
       rank: 3,
-      username: "reyzenzou",
-      avatar: "https://ik.imagekit.io/1yqrowr2y/a89708e7485323efb36b16d44cee1c48.png?updatedAt=1750202278749",
-      totalHours: 72.35,
+      username: "zouyen",
+      avatar: "https://ik.imagekit.io/lhtvft4ai/arya%20dutro.png?updatedAt=1751304125946",
+      totalHours: 113.50,
       totalDays: 22,
       badge: "Voice Expert"
     }
@@ -35,25 +35,25 @@ const Leaderboard: React.FC = () => {
   const topChatUsers = [
     {
       rank: 1,
-      username: "imkriper",
-      avatar: "https://i.pinimg.com/736x/a7/7f/47/a77f475012800774de34a3fcac5068f7.jpg",
-      totalMessages: 15420,
+      username: "payes",
+      avatar: "https://ik.imagekit.io/lhtvft4ai/payes.png?updatedAt=1751304308180",
+      totalMessages: 811,
       totalDays: 30,
       badge: "Chat Champion"
     },
     {
       rank: 2,
-      username: "Yoooeeeeeee",
-      avatar: "https://ik.imagekit.io/1yqrowr2y/d63fc8a540bb0bf2dc4c32f722dccf6f.png?updatedAt=1750202278242",
-      totalMessages: 12850,
+      username: "B",
+      avatar: "https://ik.imagekit.io/lhtvft4ai/Bilal.png?updatedAt=1751304603906",
+      totalMessages: 548,
       totalDays: 28,
       badge: "Chat Master"
     },
     {
       rank: 3,
-      username: "hime-sama",
-      avatar: "https://i.pinimg.com/736x/b4/82/67/b4826704cf9a510d7c8f843abaa7aea1.jpg",
-      totalMessages: 9630,
+      username: "Yumi",
+      avatar: "https://ik.imagekit.io/lhtvft4ai/yumi.png?updatedAt=1751304695287",
+      totalMessages: 457,
       totalDays: 25,
       badge: "Chat Expert"
     }

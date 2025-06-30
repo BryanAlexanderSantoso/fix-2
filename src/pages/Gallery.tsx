@@ -37,7 +37,7 @@ const Gallery: React.FC = () => {
     },
     {
       id: 4,
-      src: 'https://cdn.discordapp.com/avatars/1116236451244421182/a_dfdc8097dc86df4575558e8dc6ece2b6.gif?size=4096',
+      src: 'https://ik.imagekit.io/lhtvft4ai/meepooo.png?updatedAt=1751305418412',
       title: 'Co-Owner',
       category: 'community',
       description: 'Co-owner yang membantu mengelola server'
@@ -70,6 +70,13 @@ const Gallery: React.FC = () => {
       category: 'community',
       description: 'Salah satu member aktif kami'
     },
+    {
+      id: 9,
+      src: 'https://ik.imagekit.io/xaa3pofzg/leon_senter.gif?updatedAt=1750787323762',
+      title: 'Active Staff',
+      category: 'community',
+      description: 'Staff Yang Bersemangat'
+    }
   ];
 
   const filteredItems = selectedCategory === 'all' 

@@ -80,7 +80,7 @@ const Events: React.FC = () => {
     {
       quote: "She’ll probably never read this. But if she does—yes, it was always about you, shrimp buddy.",
       name: "Meepo",
-      avatar: "https://cdn.discordapp.com/avatars/1116236451244421182/a_dfdc8097dc86df4575558e8dc6ece2b6.gif?size=4096",
+      avatar: "https://ik.imagekit.io/xaa3pofzg/meepo.png?updatedAt=1750786702443",
     },
     {
       quote: "usahamu adalah hasilmu, ubah kelemahanmu menjadi kekuatanmu.",
