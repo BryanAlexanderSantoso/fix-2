@@ -110,8 +110,7 @@ const Home: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl md:text-2xl text-gray-200 mb-12 max-w-4xl mx-auto leading-relaxed"
           >
-            Tempat perlindungan bagi para gamer, kreator, dan pencari ketenangan untuk terhubung, 
-            berkembang, dan bergembira dalam lingkungan yang bersahabat dan suportif.
+            Kaze Serenity adalah Server Discord Indonesia yang merupakan tempat nongkrong bagi para gamer, kreator, dan pencari ketenangan untuk terhubung, berkembang, dan bergembira dalam lingkungan yang bersahabat dan suportif.
           </motion.p>
 
           <motion.div

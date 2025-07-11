@@ -63,8 +63,10 @@ const Footer: React.FC = () => {
                 </span>
               </div>
               <p className="text-gray-300 max-w-md leading-relaxed">
-                Tempat perlindungan bagi para gamer, kreator, dan pencari ketenangan untuk terhubung, 
-                berkembang, dan bergembira dalam lingkungan yang bersahabat dan suportif.
+                <span>
+                  <a href="https://www.kazeserenity.com/">
+                  <strong>Kaze Serenity</strong>
+                  </a></span> adalah Server Discord Indonesia yang merupakan tempat nongkrong bagi para gamer, kreator, dan pencari ketenangan untuk terhubung, berkembang, dan bergembira dalam lingkungan yang bersahabat dan suportif
               </p>
             </motion.div>
 
