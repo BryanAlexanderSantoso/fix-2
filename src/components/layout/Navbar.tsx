@@ -20,6 +20,7 @@ const Navbar: React.FC = () => {
   const navItems = [
     { path: '/', label: 'Beranda' },
     { path: '/about', label: 'Tentang' },
+    { path: '/collaborations', label: 'Kolaborasi' },
     { path: '/features', label: 'Fitur' },
     { path: '/gallery', label: 'Galeri' },
     { path: '/leaderboard', label: 'Leaderboard' },

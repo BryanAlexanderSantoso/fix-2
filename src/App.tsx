@@ -4,6 +4,7 @@ import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
 import Home from './pages/Home';
 import About from './pages/About';
+import Collaborations from './pages/Collaborations';
 import Features from './pages/Features';
 import Gallery from './pages/Gallery';
 import Leaderboard from './pages/Leaderboard';
@@ -30,6 +31,7 @@ function App() {
               <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/about" element={<About />} />
+                <Route path="/collaborations" element={<Collaborations />} />
                 <Route path="/features" element={<Features />} />
                 <Route path="/gallery" element={<Gallery />} />
                 <Route path="/leaderboard" element={<Leaderboard />} />
